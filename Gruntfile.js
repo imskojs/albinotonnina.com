@@ -564,7 +564,7 @@ module.exports = function (grunt) {
         'concat',
         'sass',
         'copy:dist',
-        'modernizr',
+        //'modernizr',
         'uglify',
         'rev',
         'usemin',

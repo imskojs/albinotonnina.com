@@ -49,7 +49,7 @@
     "grunt-newer": "~0.6.0",
     "grunt-rev": "~0.1.0",
     "grunt-sass": "^1.2.1",
-    "grunt-svgmin": "~0.2.0",
+    "grunt-svgmin": "^4.0.0",
     "grunt-text-replace": "~0.3.11",
     "grunt-usemin": "~2.0.0",
     "jshint-stylish": "~0.1.3",
