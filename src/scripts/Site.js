@@ -116,8 +116,6 @@ export default {
 
                     for (let name in this.scenes) {
 
-                        //console.log(this.scenes[name]);
-
                         if (typeof this.scenes[name].render === 'function') {
 
                             const pos = this.time(obj, this.timing[name] || {

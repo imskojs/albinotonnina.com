@@ -149,8 +149,6 @@ exports.default = {
 
                     for (var name in _this2.scenes) {
 
-                        //console.log(this.scenes[name]);
-
                         if (typeof _this2.scenes[name].render === 'function') {
 
                             var pos = _this2.time(obj, _this2.timing[name] || {

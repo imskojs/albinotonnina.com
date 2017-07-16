@@ -2626,21 +2626,7 @@ $start: $scene_04_begin;
     }
 
   }
-
-  #pegu {
-    -skrollr-animation-name: pegu;
-  }
-
-  @-skrollr-keyframes pegu {
-
-    #{$start + 2800} {
-      opacity: 0;
-    }
-
-    #{$start + 2900} {
-      opacity: 1;
-    }
-  }
+  
 
   #rightside {
     -skrollr-animation-name: rightside;

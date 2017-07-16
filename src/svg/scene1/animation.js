@@ -12,7 +12,6 @@ export default {
 				this.lightlast = this.lightlast == 'none' ? 'inline' : 'none';
 				$('#mbplight').css('display', this.lightlast);
 
-
 				this.islight = obj.curTop;
 			}
 		}
