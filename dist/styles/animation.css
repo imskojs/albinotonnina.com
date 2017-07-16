@@ -295,7 +295,7 @@ nav #barright {
   cursor: pointer; }
 
 #scene1 #intro2:hover text {
-  fill: rgba(214, 219, 220, 0.8); }
+  fill: rgba(214, 219, 220, 0.8) !important; }
 
 @-skrollr-keyframes intro2 {
   #scene1 120 {

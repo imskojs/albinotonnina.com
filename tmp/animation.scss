@@ -453,7 +453,7 @@ pointer-events:none;
     cursor: pointer;
   }
   #intro2:hover text {
-    fill: rgba(214, 219, 220, 0.8);
+    fill: rgba(214, 219, 220, 0.8) !important;
   }
   @-skrollr-keyframes intro2 {
     #{$start + 120} {
