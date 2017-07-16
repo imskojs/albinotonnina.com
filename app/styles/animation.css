@@ -476,7 +476,7 @@ nav #barright {
 @-skrollr-keyframes wire2 {
   #scene2 730 {
     stroke-dashoffset: 6000; }
-  #scene2 2730 {
+  #scene2 2830 {
     stroke-dashoffset: 0; } }
   #scene2 #title {
     -skrollr-animation-name: s2-title; }
