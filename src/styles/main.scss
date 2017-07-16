@@ -56,6 +56,23 @@ aside p#printfriendly {
   margin: 0 5%;
 }
 
+.portrait-mode{
+  displa: none;
+}
+
+@media all and (orientation: portrait) {
+  .portrait-mode{
+    text-align: center;
+    background: #3498db;
+    font-size: 1.5em;
+    color: white;
+    padding: 1.5em;
+  }
+
+}
+
+
+
 .header-container, .main {
   color: #151D29;
 }
