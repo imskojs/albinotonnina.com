@@ -20,7 +20,7 @@ export default {
     // subscriptions: {},
     // trackingAccount: 'UA-265680-29',
     defaults: {
-        mobileDeceleration: 0.004,
+        mobileDeceleration: 0.001,
         scale: 1,
         smoothScrollingDuration: 200,
         smoothScrolling: true
