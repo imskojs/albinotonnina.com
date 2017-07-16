@@ -11,10 +11,10 @@
         -skrollr-animation-name: wire3;
     }
     @-skrollr-keyframes wire3 {
-        #{$start3 - 245} {
+        #{$start3 - 205} {
             stroke-dashoffset: 6000;
         }
-        #{$start3 + 1360} {
+        #{$start3 + 1350} {
             stroke-dashoffset: 0;
         }
     }
