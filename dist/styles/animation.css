@@ -1077,9 +1077,9 @@ nav #barright {
   -skrollr-animation-name: wire3; }
 
 @-skrollr-keyframes wire3 {
-  #scene3 1555 {
+  #scene3 1595 {
     stroke-dashoffset: 6000; }
-  #scene3 3160 {
+  #scene3 3150 {
     stroke-dashoffset: 0; } }
 
 #scene3 #interested {
