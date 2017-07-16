@@ -1763,15 +1763,6 @@ nav #barright {
     transform: translate(0, 1px);
     opacity: 1; } }
 
-#scene5 #pegu {
-  -skrollr-animation-name: pegu; }
-
-@-skrollr-keyframes pegu {
-  #scene5 7900 {
-    opacity: 0; }
-  #scene5 8000 {
-    opacity: 1; } }
-
 #scene5 #rightside {
   -skrollr-animation-name: rightside; }
 
