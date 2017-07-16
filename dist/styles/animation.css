@@ -306,8 +306,7 @@ nav #barright {
     opacity: 1; } }
 
 #scene1 #intro3 {
-  -skrollr-animation-name: intro3;
-  cursor: pointer; }
+  -skrollr-animation-name: intro3; }
 
 @-skrollr-keyframes intro3 {
   #scene1 230 {
