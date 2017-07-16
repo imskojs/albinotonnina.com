@@ -1,4 +1,4 @@
-/*! albinotonnina by Albino Tonnina - v1.2.0 - 2017-07-15
+/*! albinotonnina by Albino Tonnina - v1.2.0 - 2017-07-16
 * http://https://github.com/albinotonnina/albinotonnina.com/
 * Copyright (c) 2017 Albino Tonnina; Licensed MIT */
 #scene1 {
@@ -479,7 +479,7 @@ nav #barright {
 @-skrollr-keyframes wire2 {
   #scene2 730 {
     stroke-dashoffset: 6000; }
-  #scene2 2730 {
+  #scene2 2830 {
     stroke-dashoffset: 0; } }
   #scene2 #title {
     -skrollr-animation-name: s2-title; }
