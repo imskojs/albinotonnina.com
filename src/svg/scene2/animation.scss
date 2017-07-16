@@ -12,10 +12,10 @@
         -skrollr-animation-name: wire2;
     }
     @-skrollr-keyframes wire2 {
-        #{$start + 200} {
+        #{$start + 195} {
             stroke-dashoffset: 6000;
         }
-        #{$start + 2300} {
+        #{$start + 2150} {
             stroke-dashoffset: 0;
         }
     }
